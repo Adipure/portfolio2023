@@ -118,7 +118,7 @@ img{
     object-fit: cover;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width:1024px){
     .container{
         width: var(--container-width-md);
     }
@@ -127,7 +127,7 @@ img{
    } 
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width:600px){
     .container{
         width: var(--container-width-ms);
     }
