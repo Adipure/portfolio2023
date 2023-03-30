@@ -20,8 +20,8 @@ const about = () => {
           <div className="about_cards">
             <article className="about_card">
               <GiFamilyTree className='about_icon'/>
-              <h5>Expereince</h5>
-              <small>1+ Years Experience</small>
+              <h5>Experience</h5>
+              <small>2+ Years Experience</small>
             </article>
             <article className="about_card">
               <TbFileCertificate className='about_icon'/>
@@ -34,8 +34,7 @@ const about = () => {
               <small>40+ Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, a. A fuga ullam voluptates delectus! Quia odit ad magni sed consequuntur molestias eos debitis, quod aliquam optio, iusto ipsam voluptas.
-
+          <p>Hello, I am a Full Stack Web Developer with a passion for learning. I am a graduate of the University of California, Irvine's Full Stack Web Development Bootcamp. I am a highly motivated individual who is eager to learn and grow in the field of web development. 
           </p>
 
           <a href='#contact' className='btn btn-primary'>Contact Me</a>

@@ -47,7 +47,7 @@ const data = [
     image: IMG6,
     title: 'Snake Game',
     github: 'https://github.com/Adipure/snakeGame',
-    demo: ''
+    demo: 'https://snakegame-6341.onrender.com'
   }
 ]
 
